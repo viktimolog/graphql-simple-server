@@ -1,9 +1,9 @@
 {
-  "name": "alldgads-server",
+  "name": "graphql-simple-server",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:amulyk/alldgads-server.git",
-  "author": "Andrii Mulyk <amulyk@lectrum.io>",
+  "repository": "git@github.com:viktimolog/graphql-simple-server.git",
+  "author": "viktimolog",
   "license": "MIT",
   "dependencies": {
     "apollo-server": "^2.9.13",
